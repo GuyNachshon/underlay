@@ -1,0 +1,324 @@
+{
+    "metrics": {
+        "byteCount": 27419,
+        "dependencyCount": 0,
+        "dependencyVulnerabilityCount": 0,
+        "devDependencyCount": 6,
+        "downloadCount": 36322092,
+        "fileCount": 7,
+        "licenseIssueCritical": 0,
+        "licenseIssueHigh": 0,
+        "licenseIssueLow": 0,
+        "licenseIssueMid": 0,
+        "licenseQuality": "bronze",
+        "linesOfCode": 546,
+        "maintainerCount": 2,
+        "maintenanceIssueCritical": 0,
+        "maintenanceIssueHigh": 0,
+        "maintenanceIssueLow": 0,
+        "maintenanceIssueMid": 0,
+        "qualityIssueCritical": 0,
+        "qualityIssueHigh": 0,
+        "qualityIssueLow": 0,
+        "qualityIssueMid": 0,
+        "readmeLength": 156,
+        "supplyChainRiskIssueCritical": 0,
+        "supplyChainRiskIssueHigh": 0,
+        "supplyChainRiskIssueLow": 0,
+        "supplyChainRiskIssueMid": 2,
+        "totalDependencyCount": 1,
+        "transitiveDependencyCount": 0,
+        "typeModule": "False",
+        "versionAuthorEmail": "ruben@verborgh.org",
+        "versionAuthorName": "rubenverborgh",
+        "versionCount": 61,
+        "versionsLastMonth": 0,
+        "versionsLastTwoMonths": 0,
+        "versionsLastWeek": 0,
+        "versionsLastYear": 1,
+        "vulnerabilityCount": 0,
+        "vulnerabilityIssueCritical": 0,
+        "vulnerabilityIssueHigh": 0,
+        "vulnerabilityIssueLow": 0,
+        "vulnerabilityIssueMid": 0
+    },
+    "score": {
+        "supplyChainRisk": {
+            "score": 0.9881704564283316,
+            "components": {
+                "downloadCount": {
+                    "score": 0.30303030303030304,
+                    "maxScore": 0.30303030303030304,
+                    "value": 36322092,
+                    "limit": 1
+                },
+                "supplyChainRiskIssueLow": {
+                    "score": 0.18181818181818182,
+                    "maxScore": 0.18181818181818182,
+                    "value": 0,
+                    "limit": 1
+                },
+                "supplyChainRiskIssueMid": {
+                    "score": 0.10967726279223752,
+                    "maxScore": 0.12121212121212122,
+                    "value": 2,
+                    "limit": 1
+                },
+                "supplyChainRiskIssueHigh": {
+                    "score": 0.12121212121212122,
+                    "maxScore": 0.12121212121212122,
+                    "value": 0,
+                    "limit": 1
+                },
+                "supplyChainRiskIssueCritical": {
+                    "score": 0.06060606060606061,
+                    "maxScore": 0.06060606060606061,
+                    "value": 0,
+                    "limit": 1
+                },
+                "dependencyCount": {
+                    "score": 0.06060606060606061,
+                    "maxScore": 0.06060606060606061,
+                    "value": 0,
+                    "limit": 1
+                },
+                "devDependencyCount": {
+                    "score": 0.02853831919952269,
+                    "maxScore": 0.030303030303030304,
+                    "value": 6,
+                    "limit": 1
+                },
+                "transitiveDependencyCount": {
+                    "score": 0.06060606060606061,
+                    "maxScore": 0.06060606060606061,
+                    "value": 0,
+                    "limit": 1
+                },
+                "totalDependencyCount": {
+                    "score": 0.060545484838386364,
+                    "maxScore": 0.06060606060606061,
+                    "value": 1,
+                    "limit": 1
+                }
+            }
+        },
+        "quality": {
+            "score": 1,
+            "components": {
+                "qualityIssueLow": {
+                    "score": 0.2222222222222222,
+                    "maxScore": 0.2222222222222222,
+                    "value": 0,
+                    "limit": 1
+                },
+                "qualityIssueMid": {
+                    "score": 0.14814814814814814,
+                    "maxScore": 0.14814814814814814,
+                    "value": 0,
+                    "limit": 1
+                },
+                "qualityIssueHigh": {
+                    "score": 0.14814814814814814,
+                    "maxScore": 0.14814814814814814,
+                    "value": 0,
+                    "limit": 1
+                },
+                "qualityIssueCritical": {
+                    "score": 0.07407407407407407,
+                    "maxScore": 0.07407407407407407,
+                    "value": 0,
+                    "limit": 1
+                },
+                "linesOfCode": {
+                    "score": 0.037037037037037035,
+                    "maxScore": 0.037037037037037035,
+                    "value": 546,
+                    "limit": 1
+                },
+                "readmeLength": {
+                    "score": 0.37037037037037035,
+                    "maxScore": 0.37037037037037035,
+                    "value": 156,
+                    "limit": 1
+                }
+            }
+        },
+        "maintenance": {
+            "score": 0.7934822402424863,
+            "components": {
+                "maintainerCount": {
+                    "score": 0.09930262876885876,
+                    "maxScore": 0.20408163265306123,
+                    "value": 2,
+                    "limit": 1
+                },
+                "versionsLastWeek": {
+                    "score": 0,
+                    "maxScore": 0.04081632653061224,
+                    "value": 0,
+                    "limit": 1
+                },
+                "versionsLastMonth": {
+                    "score": 0,
+                    "maxScore": 0.08163265306122448,
+                    "value": 0,
+                    "limit": 1
+                },
+                "versionsLastTwoMonths": {
+                    "score": 0,
+                    "maxScore": 0.12244897959183673,
+                    "value": 0,
+                    "limit": 1
+                },
+                "versionsLastYear": {
+                    "score": 0.01631746640217893,
+                    "maxScore": 0.20408163265306123,
+                    "value": 1,
+                    "limit": 1
+                },
+                "versionCount": {
+                    "score": 0.020362390454704372,
+                    "maxScore": 0.02040816326530612,
+                    "value": 61,
+                    "limit": 1
+                },
+                "maintenanceIssueLow": {
+                    "score": 0.12244897959183673,
+                    "maxScore": 0.12244897959183673,
+                    "value": 0,
+                    "limit": 1
+                },
+                "maintenanceIssueMid": {
+                    "score": 0.08163265306122448,
+                    "maxScore": 0.08163265306122448,
+                    "value": 0,
+                    "limit": 1
+                },
+                "maintenanceIssueHigh": {
+                    "score": 0.08163265306122448,
+                    "maxScore": 0.08163265306122448,
+                    "value": 0,
+                    "limit": 1
+                },
+                "maintenanceIssueCritical": {
+                    "score": 0.04081632653061224,
+                    "maxScore": 0.04081632653061224,
+                    "value": 0,
+                    "limit": 1
+                }
+            }
+        },
+        "vulnerability": {
+            "score": 1,
+            "components": {
+                "vulnerabilityIssueLow": {
+                    "score": 0.3,
+                    "maxScore": 0.3,
+                    "value": 0,
+                    "limit": 1
+                },
+                "vulnerabilityIssueMid": {
+                    "score": 0.2,
+                    "maxScore": 0.2,
+                    "value": 0,
+                    "limit": 1
+                },
+                "vulnerabilityIssueHigh": {
+                    "score": 0.2,
+                    "maxScore": 0.2,
+                    "value": 0,
+                    "limit": 1
+                },
+                "vulnerabilityIssueCritical": {
+                    "score": 0.1,
+                    "maxScore": 0.1,
+                    "value": 0,
+                    "limit": 1
+                },
+                "dependencyVulnerabilityCount": {
+                    "score": 0.1,
+                    "maxScore": 0.1,
+                    "value": 0,
+                    "limit": 1
+                },
+                "vulnerabilityCount": {
+                    "score": 0.1,
+                    "maxScore": 0.1,
+                    "value": 0,
+                    "limit": 1
+                }
+            }
+        },
+        "license": {
+            "score": 0.8800000000000001,
+            "components": {
+                "licenseIssueLow": {
+                    "score": 0.15,
+                    "maxScore": 0.15,
+                    "value": 0,
+                    "limit": 1
+                },
+                "licenseIssueMid": {
+                    "score": 0.1,
+                    "maxScore": 0.1,
+                    "value": 0,
+                    "limit": 1
+                },
+                "licenseIssueHigh": {
+                    "score": 0.1,
+                    "maxScore": 0.1,
+                    "value": 0,
+                    "limit": 1
+                },
+                "licenseIssueCritical": {
+                    "score": 0.05,
+                    "maxScore": 0.05,
+                    "value": 0,
+                    "limit": 1
+                },
+                "licenseQuality": {
+                    "score": 0.4800000000000001,
+                    "maxScore": 0.6,
+                    "value": "bronze",
+                    "limit": 1
+                }
+            }
+        },
+        "miscellaneous": {
+            "score": 0,
+            "components": {
+                "versionAuthorName": {
+                    "score": 0,
+                    "maxScore": 0,
+                    "value": "rubenverborgh",
+                    "limit": 1
+                },
+                "versionAuthorEmail": {
+                    "score": 0,
+                    "maxScore": 0,
+                    "value": "ruben@verborgh.org",
+                    "limit": 1
+                },
+                "fileCount": {
+                    "score": 0,
+                    "maxScore": 0,
+                    "value": 7,
+                    "limit": 1
+                },
+                "byteCount": {
+                    "score": 0,
+                    "maxScore": 0,
+                    "value": 27419,
+                    "limit": 1
+                },
+                "typeModule": {
+                    "score": 0,
+                    "maxScore": 1,
+                    "value": "False",
+                    "limit": 1
+                }
+            }
+        },
+        "depscore": 0.7934822402424863
+    }
+}
